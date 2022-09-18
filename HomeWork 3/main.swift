@@ -16,7 +16,7 @@ func newShowString(str:String) {
 }
 let str = readLine()
 newShowString(str: String(str!))
-//223
+
 
 
 //(Бишкек, Чолпон-Ата, Талас, Ош, Джалал-Абад, Нарын, Баткен)
